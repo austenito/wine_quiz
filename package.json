@@ -1,0 +1,14 @@
+{
+  "name": "wine_quiz",
+  "version": "1.0.0",
+  "description": "Wine Quizzing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austen Ito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
